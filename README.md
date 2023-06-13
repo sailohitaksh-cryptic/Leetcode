@@ -10,8 +10,7 @@
 |------|-----------|--------|---------|---------|
 |1.	|Two Sum	|[Link](https://leetcode.com/problems/two-sum/?envType=featured-list&envId=top-interview-questions)	| [Link](https://github.com/sailohitaksh-cryptic/Leetcode/blob/main/1_Two_Sum.cpp)	|[Link](https://medium.com/@rainasai603/two-sum-finding-pairs-in-an-array-that-add-up-to-a-target-8b750c9bd045)	|
 |2.	|Add Two Number	|[Link](https://leetcode.com/problems/add-two-numbers/description/?envType=featured-list&envId=top-interview-questions)	|[Link](https://github.com/sailohitaksh-cryptic/Leetcode/blob/main/2_Add_Two_Numbers.cpp)	| [Link](https://medium.com/@rainasai603/adding-two-numbers-represented-as-linked-lists-99796399f9b9) |
-|3.	|Longest Substring Without Repeating Characters
-	|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=featured-list&envId=top-interview-questions)	|[Link](https://github.com/sailohitaksh-cryptic/Leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters.cpp)	| [Link](https://medium.com/@rainasai603/finding-the-length-of-the-longest-substring-without-repeating-characters-d6d79ae35226) |
+|3.	|Longest Substring Without Repeating Characters |[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=featured-list&envId=top-interview-questions)	|[Link](https://github.com/sailohitaksh-cryptic/Leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters.cpp)	| [Link](https://medium.com/@rainasai603/finding-the-length-of-the-longest-substring-without-repeating-characters-d6d79ae35226) |
 
 #### If you like the content, don't forget to star the repository! Stay tuned for daily updates with more Leetcode questions and solutions.
 
