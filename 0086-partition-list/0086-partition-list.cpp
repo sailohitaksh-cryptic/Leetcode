@@ -15,7 +15,6 @@ public:
         ListNode* blist = new ListNode(0, nullptr);
         ListNode* small = slist;
         ListNode* big = blist;
-
         while (head != nullptr) {
             if (head->val < x) {
                 small->next = head;
